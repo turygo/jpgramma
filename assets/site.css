@@ -5,5 +5,5 @@
 .lesson-content .toggle{display:none}.lesson-content .toggle.is-visible{display:block}.playIcon img{width:18px;height:18px;vertical-align:middle}.playIcon.playing img{filter:sepia(1) saturate(4)}
 
 :root{--serif-cn:"Songti SC","Noto Serif CJK SC","Source Han Serif SC","STSong","SimSun",serif}
-.brand-mark,.brand strong,.article>h1,.lesson-content h2{font-family:var(--serif-cn)}
-.brand strong{white-space:nowrap}
+.brand-mark,.article>h1,.lesson-content h2{font-family:var(--serif-cn)}
+.brand strong{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif;font-weight:650;letter-spacing:.025em;white-space:nowrap}
