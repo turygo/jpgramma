@@ -1,0 +1,8 @@
+function byId(id){return document.getElementById(id)}
+function flip(id){const el=byId(id);if(el)el.classList.toggle('is-visible')}
+function answerNodes(id,selector='.hide'){const root=byId(id);return root?[...root.querySelectorAll(selector)]:[]}
+function showAnswers(id){answerNodes(id).forEach(el=>el.classList.add('is-visible'))}
+function hideAnswers(id){answerNodes(id).forEach(el=>el.classList.remove('is-visible'))}
+function toggleAll(id){const nodes=answerNodes(id);const show=nodes.some(el=>!el.classList.contains('is-visible'));nodes.forEach(el=>el.classList.toggle('is-visible',show))}
+function toggle(id){const nodes=answerNodes(id,'.toggle');const show=nodes.some(el=>!el.classList.contains('is-visible'));nodes.forEach(el=>el.classList.toggle('is-visible',show))}
+document.addEventListener('DOMContentLoaded',()=>{const button=document.querySelector('.menu-button');const nav=byId('site-nav');if(button&&nav){button.addEventListener('click',()=>{const open=nav.classList.toggle('open');button.setAttribute('aria-expanded',String(open))});nav.addEventListener('click',event=>{if(event.target.closest('a')&&innerWidth<=900){nav.classList.remove('open');button.setAttribute('aria-expanded','false')}})}document.querySelectorAll('.playIcon').forEach(link=>link.addEventListener('click',event=>{event.preventDefault();document.querySelectorAll('.playIcon.playing').forEach(item=>item.classList.remove('playing'));link.classList.add('playing');const audio=new Audio(link.href);audio.addEventListener('ended',()=>link.classList.remove('playing'),{once:true});audio.play().catch(()=>link.classList.remove('playing'))}))})

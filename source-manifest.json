@@ -1,0 +1,559 @@
+{
+  "source": "https://guidetojapanese.org/learn/grammar",
+  "retrieved_at": "2026-07-23",
+  "official_post_count": 69,
+  "posts": [
+    {
+      "id": 37,
+      "official_url": "https://guidetojapanese.org/learn/grammar",
+      "official_slug": "grammar_intro",
+      "official_modified": "2023-08-23T18:41:03",
+      "output": "index.html",
+      "source_sha256": "4febb4fc4f47e058d871acc352323b79698464cb543ce75cc4201fb6f27db33f"
+    },
+    {
+      "id": 132,
+      "official_url": "https://guidetojapanese.org/learn/grammar/writing",
+      "official_slug": "the-writing-system",
+      "official_modified": "2022-02-19T19:18:59",
+      "output": "writing.html",
+      "source_sha256": "4f9140b68f5867ae2cbe7d7c3dcbcd16be6fa77d842a475ae0175fbca4cf78ef"
+    },
+    {
+      "id": 134,
+      "official_url": "https://guidetojapanese.org/learn/grammar/hiragana",
+      "official_slug": "grammar-hiragana",
+      "official_modified": "2022-02-19T20:14:47",
+      "output": "hiragana.html",
+      "source_sha256": "3e477b82bf96d18830033bcaabd8d85901a9047dab12924cc498048dcdf5ee73"
+    },
+    {
+      "id": 136,
+      "official_url": "https://guidetojapanese.org/learn/grammar/hiragana_ex",
+      "official_slug": "hiragana-practice-exercises",
+      "official_modified": "2022-02-19T20:40:18",
+      "output": "hiragana_ex.html",
+      "source_sha256": "d84ab52a597d52848b38cfbef9cd9c6d51212d521d86d2febb13a33fcc01c63c"
+    },
+    {
+      "id": 138,
+      "official_url": "https://guidetojapanese.org/learn/grammar/katakana",
+      "official_slug": "grammar-katakana",
+      "official_modified": "2022-02-19T19:15:10",
+      "output": "katakana.html",
+      "source_sha256": "b813829406672bda7bc60a2511ee977678873bc787f1f528086ae049635bdaf3"
+    },
+    {
+      "id": 147,
+      "official_url": "https://guidetojapanese.org/learn/grammar/katakana_ex",
+      "official_slug": "katakana-practice-exercises",
+      "official_modified": "2022-02-19T20:56:23",
+      "output": "katakana_ex.html",
+      "source_sha256": "44c030d22bfd7260cfb479d3eaff219b44b8361572329f161d6d587d4100c9f5"
+    },
+    {
+      "id": 149,
+      "official_url": "https://guidetojapanese.org/learn/grammar/kanji",
+      "official_slug": "grammar-kanji",
+      "official_modified": "2022-02-19T19:59:22",
+      "output": "kanji.html",
+      "source_sha256": "fbdb435cb6acec7308490d0a6a4ace9e30a2cb4c03821732bd9dfa613e86e052"
+    },
+    {
+      "id": 151,
+      "official_url": "https://guidetojapanese.org/learn/grammar/basic",
+      "official_slug": "basic-grammar",
+      "official_modified": "2017-10-17T13:50:40",
+      "output": "basic.html",
+      "source_sha256": "807c0d44c618552607f31b4053bb19e34bb97a5f50e63d93b750d68228dd615d"
+    },
+    {
+      "id": 153,
+      "official_url": "https://guidetojapanese.org/learn/grammar/stateofbeing",
+      "official_slug": "expressing-state-of-being",
+      "official_modified": "2017-10-17T13:52:27",
+      "output": "stateofbeing.html",
+      "source_sha256": "9b03c09068e58e10dc7a77132ff41f6d5da001f937bfff473bb75267cd862f8a"
+    },
+    {
+      "id": 155,
+      "official_url": "https://guidetojapanese.org/learn/grammar/stateofbeing_ex",
+      "official_slug": "state-of-being-practice-exercises",
+      "official_modified": "2017-10-17T13:56:24",
+      "output": "stateofbeing_ex.html",
+      "source_sha256": "7e757a155ea9a3174fe1eba4a5c729d653ec6ab63709e7e957b2aacc9bc02f45"
+    },
+    {
+      "id": 157,
+      "official_url": "https://guidetojapanese.org/learn/grammar/particlesintro",
+      "official_slug": "introduction-to-particles",
+      "official_modified": "2022-02-19T19:15:53",
+      "output": "particlesintro.html",
+      "source_sha256": "02834008186082b35212623ee631b12c156bf9e99447ef8c63d33dd5696df2df"
+    },
+    {
+      "id": 159,
+      "official_url": "https://guidetojapanese.org/learn/grammar/particlesintro_ex",
+      "official_slug": "particle-practice-exercises",
+      "official_modified": "2017-10-17T13:56:47",
+      "output": "particlesintro_ex.html",
+      "source_sha256": "4f97fd8e759bf1f587456d5166384e29d8178964e690f9a6ed69a3d0c87e40fe"
+    },
+    {
+      "id": 168,
+      "official_url": "https://guidetojapanese.org/learn/grammar/adjectives",
+      "official_slug": "adjectives",
+      "official_modified": "2022-02-19T20:03:58",
+      "output": "adjectives.html",
+      "source_sha256": "941e7cbaa424db2bda36466a2c18f79890cfd63576e3b6053ac201b11d39f809"
+    },
+    {
+      "id": 170,
+      "official_url": "https://guidetojapanese.org/learn/grammar/adjectives_ex",
+      "official_slug": "adjective-practice-exercises",
+      "official_modified": "2017-10-17T13:57:05",
+      "output": "adjectives_ex.html",
+      "source_sha256": "2da3757cb7a1318849b39e105ef8f810ad288bcfd7fd73435bad55dba3e9a21b"
+    },
+    {
+      "id": 173,
+      "official_url": "https://guidetojapanese.org/learn/grammar/verbs",
+      "official_slug": "verb-basics",
+      "official_modified": "2026-06-24T16:01:59",
+      "output": "verbs.html",
+      "source_sha256": "e98559fa4c1e770de8608325416a8677699338af4e0447f4aa62876d60275245"
+    },
+    {
+      "id": 175,
+      "official_url": "https://guidetojapanese.org/learn/grammar/verbs_ex",
+      "official_slug": "verb-practice-exercises",
+      "official_modified": "2024-09-12T13:52:54",
+      "output": "verbs_ex.html",
+      "source_sha256": "da866cbe45c01b60f8dc72d79d6e749f1516c9cc6bc898ce6e2cd55128eeafcf"
+    },
+    {
+      "id": 177,
+      "official_url": "https://guidetojapanese.org/learn/grammar/negativeverbs",
+      "official_slug": "negative-verbs",
+      "official_modified": "2017-10-17T13:57:47",
+      "output": "negativeverbs.html",
+      "source_sha256": "9c346125ce5f803fdba098948c6bb2f47c8ed0d2224fe1e7faec6263f4622670"
+    },
+    {
+      "id": 179,
+      "official_url": "https://guidetojapanese.org/learn/grammar/negativeverbs_ex",
+      "official_slug": "negative-verb-practice-exercises",
+      "official_modified": "2017-10-17T14:00:53",
+      "output": "negativeverbs_ex.html",
+      "source_sha256": "ffb98eec35344b9fd666b0c6a5b241d23d50e30fb712a823d44e3d54ea12a931"
+    },
+    {
+      "id": 181,
+      "official_url": "https://guidetojapanese.org/learn/grammar/past_tense",
+      "official_slug": "past-tense",
+      "official_modified": "2022-02-19T19:28:21",
+      "output": "past_tense.html",
+      "source_sha256": "75a72fbbd7f730e18ca768865745df26fb32fae576be5a597b73c074e7a2da88"
+    },
+    {
+      "id": 183,
+      "official_url": "https://guidetojapanese.org/learn/grammar/pasttense_ex",
+      "official_slug": "past-verb-practice-exercises",
+      "official_modified": "2017-10-17T14:01:15",
+      "output": "pasttense_ex.html",
+      "source_sha256": "c207c6fb40f7748c2889a57d64615b18026368f3188b26ccd6658b0ac5579b58"
+    },
+    {
+      "id": 185,
+      "official_url": "https://guidetojapanese.org/learn/grammar/verbparticles",
+      "official_slug": "particles-used-with-verbs",
+      "official_modified": "2022-02-19T19:30:45",
+      "output": "verbparticles.html",
+      "source_sha256": "a971005498bef4dc81cda1385c0b584b275905e2cdd6a1d9564b6e5b93c72af6"
+    },
+    {
+      "id": 187,
+      "official_url": "https://guidetojapanese.org/learn/grammar/in-transitive",
+      "official_slug": "transitive-and-intransitive-verbs",
+      "official_modified": "2022-02-19T19:31:05",
+      "output": "in-transitive.html",
+      "source_sha256": "324f701230b2a5445d80ae444fec41a568f53f4bacef9f54dc399dbd44e0372b"
+    },
+    {
+      "id": 189,
+      "official_url": "https://guidetojapanese.org/learn/grammar/clause",
+      "official_slug": "clause",
+      "official_modified": "2017-10-17T14:01:49",
+      "output": "clause.html",
+      "source_sha256": "fee365e71c653464a7fb8916a17be33d58cc47c4bdd4f346f49ecdbd03e3a588"
+    },
+    {
+      "id": 212,
+      "official_url": "https://guidetojapanese.org/learn/grammar/nounparticles",
+      "official_slug": "noun-related-particles",
+      "official_modified": "2022-02-19T19:31:23",
+      "output": "nounparticles.html",
+      "source_sha256": "63cb473c6f2795771f4a9df1826b85c2f2169c0e61f51c17508279f4fa2f19d1"
+    },
+    {
+      "id": 214,
+      "official_url": "https://guidetojapanese.org/learn/grammar/adverbs",
+      "official_slug": "adverbs-and-sentence-ending-particles",
+      "official_modified": "2017-10-17T14:02:07",
+      "output": "adverbs.html",
+      "source_sha256": "5c80c086e98ac49d27e722cc9fb5c90d5e5bc43e41ef6f7f7dd2154a0463dc00"
+    },
+    {
+      "id": 216,
+      "official_url": "https://guidetojapanese.org/learn/grammar/essential",
+      "official_slug": "essential-grammar",
+      "official_modified": "2017-10-17T14:02:15",
+      "output": "essential.html",
+      "source_sha256": "7189b3e29dfc475c2ae95539585ae63cbe7cee0763b2d19bb25d7eb70d89f038"
+    },
+    {
+      "id": 218,
+      "official_url": "https://guidetojapanese.org/learn/grammar/polite",
+      "official_slug": "polite-form-and-verb-stems",
+      "official_modified": "2022-02-19T20:01:52",
+      "output": "polite.html",
+      "source_sha256": "f7b50113095ec8d43f6d340e2c0a690911306959a562ead8cb570936d3952b19"
+    },
+    {
+      "id": 220,
+      "official_url": "https://guidetojapanese.org/learn/grammar/people",
+      "official_slug": "addressing-people",
+      "official_modified": "2017-10-17T14:03:05",
+      "output": "people.html",
+      "source_sha256": "5a5814d9f217b8ee6e95923dfc8623e35c42175649f6e425213e41aec0a8bb4b"
+    },
+    {
+      "id": 222,
+      "official_url": "https://guidetojapanese.org/learn/grammar/question",
+      "official_slug": "the-question-marker",
+      "official_modified": "2017-11-06T18:46:12",
+      "output": "question.html",
+      "source_sha256": "9c2b4e5260bdc151a82f160c202835e1dcae4644050312486d3a441e308a4cf6"
+    },
+    {
+      "id": 224,
+      "official_url": "https://guidetojapanese.org/learn/grammar/compound",
+      "official_slug": "compound-sentences",
+      "official_modified": "2022-02-19T19:31:44",
+      "output": "compound.html",
+      "source_sha256": "c97290f6120f22aecee1c1d7e83beda702b7db015167542f2155ef58498f2ddc"
+    },
+    {
+      "id": 226,
+      "official_url": "https://guidetojapanese.org/learn/grammar/teform",
+      "official_slug": "teform",
+      "official_modified": "2022-02-19T19:33:54",
+      "output": "teform.html",
+      "source_sha256": "d1713ef4aaa968f1104ea3becbab79cf15912b760e39eb7f021155665555ef78"
+    },
+    {
+      "id": 228,
+      "official_url": "https://guidetojapanese.org/learn/grammar/potential",
+      "official_slug": "potential",
+      "official_modified": "2022-02-19T19:36:14",
+      "output": "potential.html",
+      "source_sha256": "fec881fff8c28e9e1eb9dc51b0d0afdaddb477fb5d539911438a5f2e8c535c26"
+    },
+    {
+      "id": 230,
+      "official_url": "https://guidetojapanese.org/learn/grammar/surunaru",
+      "official_slug": "surunaru",
+      "official_modified": "2017-10-17T14:04:50",
+      "output": "surunaru.html",
+      "source_sha256": "2a82c546ea75e1053f6599eaeae458b76f39661721a081c6597a1acff2a1beb7"
+    },
+    {
+      "id": 237,
+      "official_url": "https://guidetojapanese.org/learn/grammar/conditionals",
+      "official_slug": "conditionals",
+      "official_modified": "2022-01-14T14:38:53",
+      "output": "conditionals.html",
+      "source_sha256": "36e44ef519b6ed599b17471ec5994e3b7eb95b5dfde447c3758a49dd6249e22e"
+    },
+    {
+      "id": 239,
+      "official_url": "https://guidetojapanese.org/learn/grammar/must",
+      "official_slug": "must",
+      "official_modified": "2022-02-19T19:34:22",
+      "output": "must.html",
+      "source_sha256": "467d30c5b958b0a62730df4512121c087937d433d5093b8fbdd3a6f92e5c58af"
+    },
+    {
+      "id": 241,
+      "official_url": "https://guidetojapanese.org/learn/grammar/desire",
+      "official_slug": "desire",
+      "official_modified": "2017-10-17T14:05:17",
+      "output": "desire.html",
+      "source_sha256": "e1c3075b734c8b1108667516250e79965cd2d769a8dbb7ff07ab484799370b75"
+    },
+    {
+      "id": 243,
+      "official_url": "https://guidetojapanese.org/learn/grammar/actionclause",
+      "official_slug": "acting-on-relative-clauses",
+      "official_modified": "2017-10-17T14:05:24",
+      "output": "actionclause.html",
+      "source_sha256": "8b9cf47f4f5165d8262fa2dfcde4669ec85dc98c12568e32f2930db5100f5b2d"
+    },
+    {
+      "id": 245,
+      "official_url": "https://guidetojapanese.org/learn/grammar/define",
+      "official_slug": "defining-and-describing",
+      "official_modified": "2017-10-17T14:05:38",
+      "output": "define.html",
+      "source_sha256": "88aa6a5748dd7217e4072151581477b2baf460467d267b589d887999e4c909bd"
+    },
+    {
+      "id": 247,
+      "official_url": "https://guidetojapanese.org/learn/grammar/try",
+      "official_slug": "trying-or-attempting-something",
+      "official_modified": "2017-10-17T14:05:43",
+      "output": "try.html",
+      "source_sha256": "9da5187b6f2ff7468362cac6848673e5ce2bcf31752bf701e87828406f15a7d4"
+    },
+    {
+      "id": 249,
+      "official_url": "https://guidetojapanese.org/learn/grammar/favors",
+      "official_slug": "giving-and-receiving-grammar",
+      "official_modified": "2017-10-17T14:06:17",
+      "output": "favors.html",
+      "source_sha256": "a30bbeaf41d1725e97a1b4edc340ea6f2626f5a6c3e48f299614b163796bbad3"
+    },
+    {
+      "id": 251,
+      "official_url": "https://guidetojapanese.org/learn/grammar/requests",
+      "official_slug": "making-requests",
+      "official_modified": "2017-10-17T14:06:25",
+      "output": "requests.html",
+      "source_sha256": "ce4cd541385be5a884d909892240b65166407ed3fa11b5118f17a24805c9e2aa"
+    },
+    {
+      "id": 253,
+      "official_url": "https://guidetojapanese.org/learn/grammar/numbers",
+      "official_slug": "numbers-and-counting",
+      "official_modified": "2022-02-19T19:37:11",
+      "output": "numbers.html",
+      "source_sha256": "07118c32918deda1965f6c11e49b2accea1d8fe2e18aa318ff6d10c855f7f5bf"
+    },
+    {
+      "id": 256,
+      "official_url": "https://guidetojapanese.org/learn/grammar/slang",
+      "official_slug": "casual-patterns-and-slang",
+      "official_modified": "2022-02-19T19:37:23",
+      "output": "slang.html",
+      "source_sha256": "d441af0b03c41987d5f1ba3bf0f6797ef200f7a01415512d90b10524a4ad3edf"
+    },
+    {
+      "id": 258,
+      "official_url": "https://guidetojapanese.org/learn/grammar/sentence_ending",
+      "official_slug": "review-and-more-sentence-ending-particles",
+      "official_modified": "2017-10-17T14:06:49",
+      "output": "sentence_ending.html",
+      "source_sha256": "0a64d2c90f1897fd89aaa8194985bee83a9d434f0699434d554188d849262925"
+    },
+    {
+      "id": 260,
+      "official_url": "https://guidetojapanese.org/learn/grammar/specialexpressions",
+      "official_slug": "special-expressions",
+      "official_modified": "2017-10-17T14:07:00",
+      "output": "specialexpressions.html",
+      "source_sha256": "bc584291ff15765897fde697ed78e289c8995f137bad5706ebccb529423be7cb"
+    },
+    {
+      "id": 262,
+      "official_url": "https://guidetojapanese.org/learn/grammar/causepass",
+      "official_slug": "causative-and-passive-verbs",
+      "official_modified": "2022-02-19T19:37:36",
+      "output": "causepass.html",
+      "source_sha256": "0ed29dcb602f7e849525f162187aafc49fa28c1316229623d7c27792331cb0c4"
+    },
+    {
+      "id": 264,
+      "official_url": "https://guidetojapanese.org/learn/grammar/honorific",
+      "official_slug": "honorific-and-humble-forms",
+      "official_modified": "2022-02-19T19:37:44",
+      "output": "honorific.html",
+      "source_sha256": "0ad06ce50d99cff5dbb3ae68f905a7f25124261812fd4e372b9e66a535233f27"
+    },
+    {
+      "id": 266,
+      "official_url": "https://guidetojapanese.org/learn/grammar/unintended",
+      "official_slug": "unintended-actions",
+      "official_modified": "2017-10-17T14:07:32",
+      "output": "unintended.html",
+      "source_sha256": "1d04c385571d919ea23f1c3088f697e6d60ae96e462c6072ed92fa804a1f387a"
+    },
+    {
+      "id": 268,
+      "official_url": "https://guidetojapanese.org/learn/grammar/genericnouns",
+      "official_slug": "generic-nouns",
+      "official_modified": "2017-10-17T14:07:42",
+      "output": "genericnouns.html",
+      "source_sha256": "c87c7b67f2b1551280163fa6e6d2aa17cddd1d826b13c8030c91158a91e958d2"
+    },
+    {
+      "id": 270,
+      "official_url": "https://guidetojapanese.org/learn/grammar/certainty",
+      "official_slug": "various-degrees-of-certainty",
+      "official_modified": "2017-10-17T14:08:52",
+      "output": "certainty.html",
+      "source_sha256": "93fa50f580385ac6fa1708dc8a28167cdd17b0c28e402c014329567eeaf10bd0"
+    },
+    {
+      "id": 272,
+      "official_url": "https://guidetojapanese.org/learn/grammar/amount",
+      "official_slug": "expressing-amounts",
+      "official_modified": "2022-02-19T19:36:30",
+      "output": "amount.html",
+      "source_sha256": "39a213b7e5eff9bff9dd3406407e8981dd8c84013ed8d5cdd171f523bcd06999"
+    },
+    {
+      "id": 274,
+      "official_url": "https://guidetojapanese.org/learn/grammar/similarity",
+      "official_slug": "similarity-or-hearsay",
+      "official_modified": "2017-10-17T14:09:08",
+      "output": "similarity.html",
+      "source_sha256": "33f202ee3ce4eebd1abb695f85a29c140521d12a3fa07b76b3da1579404da3e2"
+    },
+    {
+      "id": 276,
+      "official_url": "https://guidetojapanese.org/learn/grammar/comparison",
+      "official_slug": "hou-and-yoru",
+      "official_modified": "2017-10-17T14:09:14",
+      "output": "comparison.html",
+      "source_sha256": "60c9a9d08bd1e66c64456b9fe9e5d6acbc7d4e6b096bdfd0f54477b8b1d4092c"
+    },
+    {
+      "id": 280,
+      "official_url": "https://guidetojapanese.org/learn/grammar/easyhard",
+      "official_slug": "easy-or-hard",
+      "official_modified": "2017-10-17T14:09:22",
+      "output": "easyhard.html",
+      "source_sha256": "040d283b488e22d165f426f39c863d40eb1c9972e876c7152f2d1f258abdf888"
+    },
+    {
+      "id": 282,
+      "official_url": "https://guidetojapanese.org/learn/grammar/negativeverbs2",
+      "official_slug": "more-negative-verbs",
+      "official_modified": "2017-10-17T14:09:31",
+      "output": "negativeverbs2.html",
+      "source_sha256": "c3ed9c0c327341a3bbb5c342b4c62166d083946f21016495124e35e84a9f7bb9"
+    },
+    {
+      "id": 284,
+      "official_url": "https://guidetojapanese.org/learn/grammar/reasoning",
+      "official_slug": "hypothesizing-and-concluding",
+      "official_modified": "2017-10-17T14:09:45",
+      "output": "reasoning.html",
+      "source_sha256": "25a0231fd8ddaa9b4e568363dd670dbd5118d5b165f5becf42c92192aa5697ea"
+    },
+    {
+      "id": 286,
+      "official_url": "https://guidetojapanese.org/learn/grammar/timeactions",
+      "official_slug": "time-specific-actions",
+      "official_modified": "2017-10-17T14:09:53",
+      "output": "timeactions.html",
+      "source_sha256": "ba5933f6a6ad55aa3dd8341e693a8cc43183db450876df407534935f7607a3e9"
+    },
+    {
+      "id": 288,
+      "official_url": "https://guidetojapanese.org/learn/grammar/nochange",
+      "official_slug": "expressing-a-lack-of-change",
+      "official_modified": "2017-10-17T14:12:46",
+      "output": "nochange.html",
+      "source_sha256": "40afe3cefc737ca64722995ea0eef088324f5ac379b51581b67ee6329a7d6c28"
+    },
+    {
+      "id": 290,
+      "official_url": "https://guidetojapanese.org/learn/grammar/advanced",
+      "official_slug": "advanced-topics",
+      "official_modified": "2017-10-17T14:12:52",
+      "output": "advanced.html",
+      "source_sha256": "683c3a8d227464c67ed55af9801a8cef4365e59d79c82f867feacce07026f9df"
+    },
+    {
+      "id": 292,
+      "official_url": "https://guidetojapanese.org/learn/grammar/formal",
+      "official_slug": "formal-expressions",
+      "official_modified": "2017-10-17T14:13:08",
+      "output": "formal.html",
+      "source_sha256": "d0b1eb02469a693431e0574c75433f612a4239a723f976d273dfd70365540a4d"
+    },
+    {
+      "id": 315,
+      "official_url": "https://guidetojapanese.org/learn/grammar/should",
+      "official_slug": "should",
+      "official_modified": "2017-10-17T14:13:38",
+      "output": "should.html",
+      "source_sha256": "542857be9eadf1774e7bfc5f3275709faf8285f825502b47a057b5df70c62118"
+    },
+    {
+      "id": 317,
+      "official_url": "https://guidetojapanese.org/learn/grammar/even",
+      "official_slug": "minimum-expectation",
+      "official_modified": "2017-10-17T14:13:47",
+      "output": "even.html",
+      "source_sha256": "ca64782a1fa2b868017164cc5d4f61c129c036d1c0cdb44971ecb59386099d97"
+    },
+    {
+      "id": 319,
+      "official_url": "https://guidetojapanese.org/learn/grammar/signs",
+      "official_slug": "showing-signs",
+      "official_modified": "2017-10-17T14:13:53",
+      "output": "signs.html",
+      "source_sha256": "1eb928f928eae5bcc5b80be2ce9ae61d55142e1d4097324813287b8d26a67e08"
+    },
+    {
+      "id": 321,
+      "official_url": "https://guidetojapanese.org/learn/grammar/feasibility",
+      "official_slug": "non-feasibility",
+      "official_modified": "2017-10-17T14:14:00",
+      "output": "feasibility.html",
+      "source_sha256": "b927730597759930b90fc66d7a7a90bfbb2066615de31eb3a52aeb142060bc79"
+    },
+    {
+      "id": 325,
+      "official_url": "https://guidetojapanese.org/learn/grammar/tendency",
+      "official_slug": "tendencies",
+      "official_modified": "2017-10-17T14:14:07",
+      "output": "tendency.html",
+      "source_sha256": "5b0fd3ff393f1c19db9e4aab8769feddb66f2b4468c20137d7ea995ad08143f4"
+    },
+    {
+      "id": 327,
+      "official_url": "https://guidetojapanese.org/learn/grammar/volitional2",
+      "official_slug": "advanced-volitional",
+      "official_modified": "2020-08-31T17:22:04",
+      "output": "volitional2.html",
+      "source_sha256": "5338bc060c5b99b8c61559c8c79802717b4b19f446519031476054aa3f7588e8"
+    },
+    {
+      "id": 329,
+      "official_url": "https://guidetojapanese.org/learn/grammar/covered",
+      "official_slug": "covered-by-something",
+      "official_modified": "2017-10-17T14:14:29",
+      "output": "covered.html",
+      "source_sha256": "a35da0d769a5e9092af4bf3dc18d93c0477743bdb50f5766a92de054c675e0e1"
+    },
+    {
+      "id": 331,
+      "official_url": "https://guidetojapanese.org/learn/grammar/immedate",
+      "official_slug": "immediate-events",
+      "official_modified": "2017-10-17T14:14:35",
+      "output": "immedate.html",
+      "source_sha256": "fd92483432fd0bb5a3a49b58855a941861193206f27e1f8c2360acf7c07edd69"
+    },
+    {
+      "id": 333,
+      "official_url": "https://guidetojapanese.org/learn/grammar/other",
+      "official_slug": "other-grammar",
+      "official_modified": "2017-10-17T14:14:50",
+      "output": "other.html",
+      "source_sha256": "1b0bdd3d37af5962ed0e39bf4097c392c95a7c28329192be84d1ff39afe13045"
+    }
+  ]
+}
